@@ -1,0 +1,1 @@
+The purpose of this project was to understand the funcitonality of a Finite State Machine and a possible way to implement it. Aside from traversing the graph, the program allows the user to delete states, and reconfigure paths.
